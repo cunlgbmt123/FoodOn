@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Food On</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="State">
+        <item>North</item>
+        <item>South</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Ginger Pao</item>
+        <item>Coconut Pao</item>
+        <item>Red Bean Pao</item>
+        <item>Chai Pao</item>
+        <item>Cream of mushroom</item>
+        <item>Pumpkin</item>
+        <item>Lotus Root</item>
+        <item>BurDock</item>
+        <item>Thai style Salad</item>
+        <item>Spinach Potato Ball</item>
+        <item>Sour Spicy Tofu</item>
+        <item>Humus Platter</item>
+    </string-array>
+</resources>

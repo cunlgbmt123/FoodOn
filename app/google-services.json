@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "676368894017",
+    "firebase_url": "https://easyfood-e1fa2-default-rtdb.firebaseio.com",
+    "project_id": "easyfood-e1fa2",
+    "storage_bucket": "easyfood-e1fa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676368894017:android:372554f6ae3ff04c475ec0",
+        "android_client_info": {
+          "package_name": "com.food_on.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676368894017-ae1ssh3mg8ab8b5vhl48kb67joab52cb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.food_on.app",
+            "certificate_hash": "ca1b4d55a074e02c25e60b47624de3e837aee6b0"
+          }
+        },
+        {
+          "client_id": "676368894017-ulmvj6ts1q2si62netuul39u09auin8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJy8y-RC2tQNarYn3Hcx7ZZXgoQrVE7yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676368894017-ulmvj6ts1q2si62netuul39u09auin8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
